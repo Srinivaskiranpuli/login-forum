@@ -20,7 +20,7 @@
 </html>
 
 body{
- margin: 0;
+ margin: 1;
  padding:0;
  front-family:sans-serif;
  background:"34495e;
@@ -29,7 +29,7 @@ body{
   width:300px;
   padding:40px;
   position: absolute;
-  top:50%;
+  top:100%;
   left: 50%;
 }
 
